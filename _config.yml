@@ -10,7 +10,7 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: sampelanogat
+title: jaso22
 
 
 # title-icon appears in the header to give some pizazz (leave blank for none)
@@ -53,7 +53,7 @@ pub_year: 2022
 # location of code, the full url to your github repository
 ##### source-code: https://github.com/evanwill/workshop-template-b
 source-code: https://github.com/DickTurpshead/sampelanogat
-
+source-code: https://github.com/jasorame/jaso22
 ##################################################
 ##########
 # URL VARIABLES [optional!]
