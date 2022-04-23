@@ -39,7 +39,7 @@ search: true
 
 # author settings for cc-by, appears in the footer and credits
 ##### author: evan will
-author: <sub>jaso</sub>
+author: <sub>jasorame</sub>
 
 
 # your github username for link [optional]
@@ -48,7 +48,7 @@ github_username: jasorame
 
 # year or date published
 ###### pub_year: 2021
-pub_year: 2022
+pub_year: <sub>2022</sub>
 
 # location of code, the full url to your github repository
 ##### source-code: https://github.com/evanwill/workshop-template-b
