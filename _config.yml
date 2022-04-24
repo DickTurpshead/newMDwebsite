@@ -4,7 +4,7 @@
 # a Jekyll template for a simple workshop website
 # https://github.com/evanwill/workshop-template-b
 #
-<style>
+​<style>
 .mynote {
   font-size: 120%;
   color: red;
