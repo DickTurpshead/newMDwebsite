@@ -1,7 +1,8 @@
 ---
 title: the first years
 nav: toddler
-topics: early years; JS-PT
+tags: jasorame; JS-PT
+topics: early years
 ---
 
 jasmine sorame was born in cairns in 2000
