@@ -54,6 +54,8 @@ pub_year: <sub>2022</sub>
 ##### source-code: https://github.com/evanwill/workshop-template-b
 source-code: https://dickturpin-highwayman.github.io/newMDwebsite/
 ##################################################
+plugins:
+  - jekyll-seo-tag
 ##########
 # URL VARIABLES [optional!]
 #
