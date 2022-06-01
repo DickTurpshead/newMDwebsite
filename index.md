@@ -3,11 +3,11 @@ title: Home
 layout: default
 ---
 
-# Jasmine
+# MY TITLE HIA
 
 & all that hard work payes off ...
 
-{% include figure.html img="jaso-david-graduation.jpg" alt="intro image here" caption="jasmine & david at jasmines'graduation" width="50%" %}
+{% include figure.html img="d-by-j.jpg" alt="intro image here" caption="MYTEXT" width="50%" %}
 
 <br/>
 <br/>
