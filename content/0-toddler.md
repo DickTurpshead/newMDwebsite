@@ -1,15 +1,15 @@
 ---
-title: the first years
-nav: toddler
+title: the early years
+nav: nav-page-title
 tags: DT-highwayman; Jekyll-me
 topics: ABOUT WHAT
 ---
 
-jasmine sorame was born in cairns in 2000
+... in 2000
 
 <br/>
 
-#### jasmines' early years
+#### ...' early years
 
 <table>
   <tr>
